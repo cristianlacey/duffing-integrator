@@ -1,10 +1,6 @@
 # Duffing Equation Integrator
 ## APC 524: HW1
 
-## Cringey Preamble
-Hello! Welcome to my program. Please make yourself at home.
-There's leftover "piazza" in the fridge.
-
 ## Description
 Running "make" generates 3 executables that solve the duffing equation,
 decomposed as a system of first-order differential equations in the form
